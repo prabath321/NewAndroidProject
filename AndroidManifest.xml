@@ -6,7 +6,11 @@
 
     <uses-sdk
         android:minSdkVersion="8"
+<<<<<<< HEAD
         android:targetSdkVersion="17" />
+=======
+        android:targetSdkVersion="18" />
+>>>>>>> cb2b9877c4eb70259a951b641f42b09fbce7f736
 
     <application
         android:allowBackup="true"
